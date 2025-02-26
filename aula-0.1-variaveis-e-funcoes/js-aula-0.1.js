@@ -114,3 +114,7 @@ const iife = (function() {
 const start = (function(app){ 
     console.log(`Executando imediatamente o app ${app}.`)
 })("Whatsapp")
+
+// git add .
+// git commit -m "@seu-username"
+// git push
