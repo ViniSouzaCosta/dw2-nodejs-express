@@ -35,7 +35,7 @@ console.log(typeof endereco);
 function minhaFuncao() {}
 console.log(typeof minhaFuncao);
 
-//  FUNÇÃO SIMPLES
+//  FUNÇÃO SIMPLES 
 function saudacao() {
   console.log("Olá, bem-vindo");
 }
