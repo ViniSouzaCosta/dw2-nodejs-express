@@ -1,0 +1,1 @@
+// alert("Se você esta lendo isso, o JavaScript foi importado com sucesso.")
